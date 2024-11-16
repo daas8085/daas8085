@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daas8085
+- 👋 Hi, I’m @Sonu_Kumar
 - 👀 I’m interested in computer science...,
 - 🌱 I’m currently learning programming language...,
 - 💞️ I’m looking to collaborate on Ex Google
